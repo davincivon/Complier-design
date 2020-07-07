@@ -1,0 +1,6 @@
+int main()
+begin
+int Arr_name[100];
+for i= 5.1 to 2*4+2 do
+var = Arr_name[var];
+end
